@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mgsar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mgsar\\.nuget\\packages"
+    ]
+  }
+}
